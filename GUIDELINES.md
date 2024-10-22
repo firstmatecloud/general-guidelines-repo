@@ -30,5 +30,4 @@
 ### Logging
 
 - Log messages should be clear and meaningful. They should provide enough context to understand the issue.
-- Log messages should contain all relevant information withour exposing sensitive data.
-
+- Log messages should contain all relevant information without exposing sensitive data on info level.
